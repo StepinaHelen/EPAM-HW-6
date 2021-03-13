@@ -1,0 +1,36 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-bg-orange {
+  background-color: coral;
+}
+.color-white {
+  color: white;
+}
+.font-size-large {
+  font-size: 48px;
+}
+.text-color-black {
+  color: #111;
+}
+.fs-30 {
+  font-size: 30px;
+}
+.bg-dark {
+  background-color: #525252;
+}
+.bg-light-dark {
+  background-color: #f8f5f5;
+}
+.color-dark {
+  color: #525252;
+}
+.fs-20 {
+  font-size: 20px;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: #111;
+}
